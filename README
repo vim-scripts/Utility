@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1742
+
+This is the script which duplicates current  text in current file vertically. 
+
+Play with beautymargin variable to get desired indentation. 
+
+can be executed using  command  :call ColCopy()
+and you will see that it performs vertical copy.
